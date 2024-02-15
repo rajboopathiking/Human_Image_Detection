@@ -3,3 +3,4 @@ requests
 numpy
 joblib
 tensorflow
+opencv-python
