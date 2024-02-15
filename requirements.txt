@@ -3,4 +3,3 @@ requests
 numpy
 joblib
 tensorflow
-pickle
