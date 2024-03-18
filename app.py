@@ -9,7 +9,7 @@ import time
 st.title("Human Detection")
 st.write("Upload an image and see the prediction")
 
-model = joblib.load("/Users/godfather_101/Downloads/human detection dataset/Model")
+model = joblib.load("/human detection dataset/Model")
 
 # Upload image through Streamlit
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
